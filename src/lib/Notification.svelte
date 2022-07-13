@@ -55,6 +55,7 @@
     main {
         margin-bottom: 8px;
         position: relative;
+        background-color: white;
         width: min(400px, 50vw);
         border: 1px solid rgba(20, 20, 20, 0.3);
         border-radius: 2px;
