@@ -1,6 +1,12 @@
 {
 	"name": "@phaqui/svelte-notification",
-	"version": "0.0.1",
+    "author": "Anders Lorentsen <phaqui@gmail.com> (https://github.com/phaqui)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/phaqui/svelte-notification.git"
+    },
+    "license": "ISC",
+	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
