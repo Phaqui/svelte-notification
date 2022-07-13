@@ -1,11 +1,11 @@
 {
 	"name": "@phaqui/svelte-notification",
-    "author": "Anders Lorentsen <phaqui@gmail.com> (https://github.com/phaqui)",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/phaqui/svelte-notification.git"
-    },
-    "license": "ISC",
+	"author": "Anders Lorentsen <phaqui@gmail.com> (https://github.com/phaqui)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/phaqui/svelte-notification.git"
+	},
+	"license": "ISC",
 	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
@@ -18,6 +18,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-static": "^1.0.0-next.35",
 		"@sveltejs/kit": "next",
 		"svelte": "^3.44.0",
 		"svelte-check": "^2.7.1",
